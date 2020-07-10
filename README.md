@@ -1,4 +1,4 @@
-![Header photo of Alex and his husband](Assets/header.jpg "Header photo of Alex and his husband")
+![Header photo of Alex and his husband](https://github.com/alexp2ad/alexp2ad/raw/master/Assets/header.jpg "Header photo of Alex and his husband")
 
 Hi there! I'm Alex, an iOS / tvOS developer from Scotland.
 
